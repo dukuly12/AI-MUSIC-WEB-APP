@@ -2,7 +2,7 @@
 
 .heading
 {
-  font-size: 23px;
+  font-size: 25px;
   width: 100%;
   margin: 0px;
 }
@@ -18,12 +18,12 @@ body
 }
   #song
   {
-  	font-size: 23px;
-  	margin: 15px;
+  	font-size: 20px;
+  	margin: 14px;
   }
     canvas 
   {
     border:5px solid white;
-    border-radius:20px;
-    box-shadow: 5px 5px 5px #6e7879;
+    border-radius:15px;
+    box-shadow: 3px 5px 6px #6e7879;
   }
